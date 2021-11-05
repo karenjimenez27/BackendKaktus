@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'mongodb',
   connector: 'mongodb',
-  url: '',
+  url: 'mongodb+srv://GrupoA:GrupoA@clusterkaktus.merhz.mongodb.net/KaktusDB?retryWrites=true&w=majority',
   host: '',
   port: 0,
   user: '',
